@@ -1,0 +1,42 @@
+For this assignment, here are the five stocks that i selected
+
+NVDA – NVIDIA
+
+AMZN – Amazon
+
+NFLX – Netflix
+
+JPM – JPMorgan Chase
+
+BA – Boeing
+
+Ticker	Positive	Negative	Neutral	Avg Score	Top Keywords	Daily Insight
+NVDA	7	3	4	0.33	AI chips, data‑center demand, GPU
+shortages, enterprise adoption	NVDA leaned positive
+
+the demand for AI chips and data‑center
+GPUs continued to increase despite
+concerns about the supply
+AMZN	5	4	6	0.08	AWS growth, cost cutting, retail slowdown,
+logistics expansion	AMZN was mixed
+
+AWS's growth balanced out the worries
+about slower retail spending and rising
+logistics costs.
+NFLX	6	5	3	0.12	Subscriber growth, content spending,
+international expansion,
+ad‑tier performance	NFLX leaned mild positive
+
+NFLX gained more subscribers and their
+strong ad‑tier performance reduced the
+concerns about rising expenses.
+JPM	4	6	5	‑0.18	Interest rates, loan demand, credit risk
+consumer spending	JPM was slightly negative
+
+Loan demands reduced as a result of high
+interest rates.
+BA	3	8	4	‑0.41	Production delays, FAA review,
+safety concerns, delivery slowdown	BA leaned negative
+
+News focused on the production delays,
+and ongoing safety‑related criticism.
